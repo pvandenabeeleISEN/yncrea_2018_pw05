@@ -23,7 +23,7 @@ For this module, you have to declare, in the `pom.xml` file, the following depen
 | ch.qos.logback | logback-classic | 1.1.8 ||
 | org.springframework | spring-webmvc | 4.2.9.RELEASE || 
 | org.apache.cxf | cxf-rt-frontend-jaxws | 3.1.9 ||
-| org.apache.cxf | cxf-rt-transport-http | 3.1.9 ||
+| org.apache.cxf | cxf-rt-transports-http | 3.1.9 ||
 
 ## pw05-client
 Create a new Maven module called **pw05-client**.
@@ -36,7 +36,7 @@ For this module, you have to declare, in the `pom.xml` file, the following depen
 | ch.qos.logback | logback-classic | 1.1.8 ||
 | org.springframework | spring-context | 4.2.9.RELEASE ||
 | org.apache.cxf | cxf-rt-frontend-jaxws | 3.1.9 ||
-| org.apache.cxf | cxf-rt-transport-http | 3.1.9 ||
+| org.apache.cxf | cxf-rt-transports-http | 3.1.9 ||
 
 ## pw05-contract
 Create a new Maven module called **pw05-contract**.
