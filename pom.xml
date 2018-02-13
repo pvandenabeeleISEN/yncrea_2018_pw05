@@ -15,7 +15,12 @@
 
     <modules>
         <module>pw05-core</module>
+        <module>pw05-server</module>
+        <module>pw05-client</module>
+        <module>pw05-contract</module>
     </modules>
+
+
 
     <build>
         <plugins>
